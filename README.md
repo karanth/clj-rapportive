@@ -21,5 +21,5 @@ _email_ is the email of the person you want rapportive details about.
 
 The program was developed based on this blog [link] (http://jordan-wright.github.io/blog/2013/10/14/automated-social-engineering-recon-using-rapportive/) by Jordan Wright.
 
-####Random emails to fetch the session token as mentioned by the blog post don't work anymore. They return HTTP error code 429 - Too many simultaneous connections.
+_Random emails to fetch the session token as mentioned by the blog post don't work anymore. They return HTTP error code 429 - Too many simultaneous connections._
 
